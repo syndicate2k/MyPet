@@ -1,0 +1,4 @@
+hungry 10
+energy 20
+hygiene 30
+fun 40

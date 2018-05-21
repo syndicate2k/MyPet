@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tamagotchi</string>
+    <string name="hunger">hunger</string>
+    <string name="energy">energy</string>
+    <string name="hygiene">hygiene</string>
+    <string name="fun">fun</string>
+    <string name="eat">eat</string>
+    <string name="sleep">sleep</string>
+    <string name="wash">wash</string>
+    <string name="heal">heal</string>
+    <string name="play">play</string>
+    <string name="task">task</string>
+</resources>

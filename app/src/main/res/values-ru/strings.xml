@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тамагочи</string>
+    <string name="hunger">голод</string>
+    <string name="energy">энергия</string>
+    <string name="hygiene">гигиена</string>
+    <string name="fun">настроение</string>
+    <string name="eat">кормить</string>
+    <string name="sleep">уложить спать</string>
+    <string name="wash">помыть</string>
+    <string name="heal">лечить</string>
+    <string name="play">поиграть</string>
+    <string name="task">приказать</string>
+</resources>
